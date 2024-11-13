@@ -6,8 +6,8 @@ body{
     text-align:center;
     font-size:100px;
     color: rgb(254,0,174)
-    border bottom: solid 5px rgb(254,0,174);
-    font-family: "Playfair Display", serif;
+    border bottom:solid 5px rgb(254,0,174);
+    font-family:"Playfair Display", serif;
 
 }
 
@@ -19,13 +19,13 @@ section {
      justify-content: center;
 }
 
-chamada_texto {
+.chamada_texto {
      margin-right: 4%;
 
 
 }
 
-ing{
+ ing{
     width: 400px;
     height: 600px;
     margin-bottom: 70;
